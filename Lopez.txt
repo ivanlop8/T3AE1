@@ -1,4 +1,8 @@
 López
+<<<<<<< HEAD
 
 jfwlk43
 fglh´jpuy
+=======
+ioopfjrgte
+>>>>>>> origin/master
